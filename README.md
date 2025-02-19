@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Data Analyst and Data Engineer with a passion for transforming raw data into meaningful insights and building efficient data pipelines. I leverage my expertise in SQL, Python, and data engineering tools to optimize data workflows and enable data-driven decision-making. Dedicated to continuous learning, I strive to stay at the forefront of analytics and data engineering to drive innovative, real-world solutions.
+Software Engineer and Data Analyst with a passion for transforming raw data into meaningful insights and building efficient applications. I leverage my expertise in SQL, Python, and data engineering tools to optimize data workflows and enable data-driven decision-making. Dedicated to continuous learning, I strive to stay at the forefront of analytics and data engineering to drive innovative, real-world solutions.
 
 ## 📊 Skills
 
