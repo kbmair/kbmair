@@ -16,6 +16,9 @@ Software Engineer and Data Analyst with a passion for transforming raw data into
 * Statistical Analysis: Experience with regression models and statistical techniques.
 
 ## 🎓 Education
+* Master of Science in Data Science
+(To start Aug 2025)
+  * Western Governor's University 
 * Bachelor of Science in Data Analytics (Ongoing)
   * Western Governors University
 
@@ -24,6 +27,6 @@ Software Engineer and Data Analyst with a passion for transforming raw data into
 * [LinkedIn](https://www.linkedin.com/in/kyle-mair-07453a264/)
 
 ## 🤝 Let's Connect
-I’m eager to connect with professionals in the fields of data analysis and engineering! Whether you have exciting projects, job opportunities, or just want to discuss the latest trends in data, feel free to reach out.
+I’m eager to connect with professionals in the fields of data science and data analytics! Whether you have exciting projects, job opportunities, or just want to discuss the latest trends in data, feel free to reach out.
 
 Happy analyzing and engineering! 📊💻
